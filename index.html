@@ -20,7 +20,7 @@
   <script type="text/javascript">
     var map = L.map('map', {
       maxZoom: 14,
-      minZoom: 12
+      minZoom: 10
     }).setView([47.612833, -122.331739], 12.5);
 
     var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map);
@@ -55,7 +55,7 @@
 
     var overlays = {
       "Modified Basemap": tile1,
-      "Unrefinforced Masonry Buildings": tile2,
+      "Unreinfroced Masonry Buildings": tile2,
       "Basemap and Data": tile3,
       "Seattle Supersonics Theme": tile4
     }
