@@ -10,7 +10,7 @@ Your repository should include:
 
 You should also include a screenshot of each of your tiles, and include a description of the tile, the geographic area, and the zoom levels set for the tile. 
 
-Link to hosted webmap: tpmccrea.github.io/GEOG458_Lab4
+Link to hosted webmap: https://tpmccrea.github.io/GEOG458_Lab4/
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/ModifiedBasemap.png)
